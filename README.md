@@ -11,9 +11,6 @@ Not to my knowledge. Private avatars don't show up on pedestals in my experience
 ### Why can't I chose where the file is saved?
 Why can't Unity support file dialogs? *Who knows?*
 
-### How do I log out?
-You'll have to delete its preferences file. Not sure where its stored at the moment. I tried writing a log-out function but it was having a bit of issue. Don't worry, cookies expire, so you should get logged out within a couple weeks.
-
 ### How do I run this on Mac?
 If you are getting a security error due to the package being unsigned/unnotarized, right click the program, hold down shift, and click open. It should give you the option to run the program now in the dialog that appears.
 
